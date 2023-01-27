@@ -1,2 +1,2 @@
-# PENPAL-T
-PostgreSQL + Express + Node + Prisma + AWS Lambda + TypeScript API Template
+# MENPAL-T
+MongoDB + Express + Node + Prisma + AWS Lambda + TypeScript API Template
