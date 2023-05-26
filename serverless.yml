@@ -3,6 +3,13 @@ frameworkVersion: '3'
 
 plugins:
   - serverless-offline
+  - serverless-esbuild
+
+custom:
+  esbuild:
+    bundle: true
+    minify: true
+    target: "node18"
 
 package:
   patterns:
